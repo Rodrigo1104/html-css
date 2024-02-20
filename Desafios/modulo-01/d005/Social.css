@@ -1,0 +1,22 @@
+body{
+    font-size: x-large;
+    background: url("imagens/praia.jpeg") no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: rgb(0, 0, 0);
+}
+
+div#social a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+div#social li{
+    text-align: left;
+}
+
+div#ap{
+    position: relative;
+    width:500px;
+    text-align: center;
+}
